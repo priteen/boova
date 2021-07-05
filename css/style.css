@@ -470,9 +470,9 @@ p.large {
   );
   background-image: linear-gradient(
     45deg,
-    #6d41be 0,
-    #e458fc 51%,
-    #6d41be 100%
+    #ff9f20 0,
+    #ff8c00 51%,
+    #ff9200 100%
   );
 }
 .grdnt-pink:not(.overly) {
